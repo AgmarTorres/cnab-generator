@@ -1,0 +1,37 @@
+const event = {
+    "beneficiaryType": "2",
+    "beneficiaryDocument": "08739098605",
+    "payerType": "2",
+    "payerDocument": "08739098606",
+    "street": "Rua das Missões",
+    "neighterHood": "Planalto",
+    "city": "Passos",
+    "uf": "MG",
+    "cep": "37903",
+    "suffixCEP": "328",
+    "agreement": "144516745",
+    "agency": "50",
+    "account": "8908908",
+    "companyName": "React",
+    "movementCode": "",
+    "ourNumber": "",
+    "yourNumber": "",
+    "correlationId": "",
+    "maturityDate": "",
+    "amount": "",
+    "fineType":"",
+    "fineDate": "",
+    "fineAmount": "",
+    "discountType":"",
+    "discountDate": "",
+    "discountAmount": "",
+    "interestType":"",
+    "interestDate": "",
+    "interestAmount": "",
+    "rebateAmount": "",
+    "writeOffCode": "",
+    "writeOffDay": ""
+} 
+module.exports = {
+    event
+}
